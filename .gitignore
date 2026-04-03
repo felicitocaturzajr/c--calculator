@@ -1,0 +1,29 @@
+## .NET / C# .gitignore
+
+# Build output
+bin/
+obj/
+
+# Visual Studio files
+.vs/
+*.user
+*.suo
+
+# Rider / JetBrains
+.idea/
+
+# VS Code
+.vscode/
+
+# NuGet packages
+*.nupkg
+packages/
+
+# Test results
+TestResults/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
