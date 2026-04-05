@@ -63,6 +63,4 @@ dotnet test
 - **C# / .NET 8**
 - **xUnit** — Unit testing framework
 
-## 📄 License
 
-MIT License — feel free to use, fork, and extend!
